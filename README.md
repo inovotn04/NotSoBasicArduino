@@ -28,10 +28,10 @@ Here's how you make code look like code:
     fadeAmount = -fadeAmount;
   }
 ```
-Talk about how the fade works, here....
+T
 
 ### Evidence
-https://create.arduino.cc/editor/helmstk1/9e044cca-43d7-4d93-885f-e6dec5b4f769/preview
+https://create.arduino.cc/editor/inovotn04/c8784bd7-16b9-4bf7-9797-a1a1dd349e99/preview
 
 ### Images
 
