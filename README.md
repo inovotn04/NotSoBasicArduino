@@ -32,7 +32,7 @@ brightness is either increased or decreased by the "fadeAmount" variable.
 https://create.arduino.cc/editor/inovotn04/c8784bd7-16b9-4bf7-9797-a1a1dd349e99/preview
 
 ### Images
-<img src="Images/FadeWire.png" alt="Fade Wiring" width="300" height="300">
+<img src="Images/FadeWire.png" alt="Fade Wiring" width="350" height="300">
 ### Reflection
 
 ## Hello_LCD
