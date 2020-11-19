@@ -12,9 +12,7 @@
 ## LED_Fade
 
 ### Description & Code
-Description goes here
-
-Here's how you make code look like code:
+Making the arduino fade using analogWrite and variables to change the brightness.
 
 ```C++
 // set the brightness of pin 9:
@@ -28,13 +26,13 @@ Here's how you make code look like code:
     fadeAmount = -fadeAmount;
   }
 ```
-T
-
+analogWrite sets the led brightness to the "brightness" variable and then the 
+brightness is either increased or decreased by the "fadeAmount" variable.
 ### Evidence
 https://create.arduino.cc/editor/inovotn04/c8784bd7-16b9-4bf7-9797-a1a1dd349e99/preview
 
 ### Images
-
+<img src="images/FadeWire.png" alt="Fade Wiring" width="300" height="300">
 ### Reflection
 
 ## Hello_LCD
